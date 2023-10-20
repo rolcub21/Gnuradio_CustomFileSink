@@ -1,0 +1,9 @@
+/usr/local/lib/cmake/gnuradio-advFile/gnuradio-advFileConfig.cmake
+/usr/local/include/gnuradio/advFile/api.h
+/usr/local/lib/python3.10/dist-packages/gnuradio/advFile/__init__.py
+/usr/local/lib/python3.10/dist-packages/gnuradio/advFile/customFileSink.py
+/usr/local/lib/python3.10/dist-packages/gnuradio/advFile/__init__.pyc
+/usr/local/lib/python3.10/dist-packages/gnuradio/advFile/customFileSink.pyc
+/usr/local/lib/python3.10/dist-packages/gnuradio/advFile/__init__.pyo
+/usr/local/lib/python3.10/dist-packages/gnuradio/advFile/customFileSink.pyo
+/usr/local/share/gnuradio/grc/blocks/advFile_customFileSink.block.yml
